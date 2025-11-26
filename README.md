@@ -23,6 +23,7 @@ I’ll be updating this repository regularly as I complete new modules and proje
 |------|--------|-------------|
 | 1 | Simple Linear Regression | Understanding the concept, mathematical intuition, and implementation in sklearn |
 | 2 | Multiple Linear Regression | Extending simple regression to multiple features |
+| 2 | Gradient Descent| Understanding the concept of minimizing a cost function using gradients. Learning about Batch, Stochastic, and Mini-Batch gradient descent with simple intuition. |
 
 
 ---
