@@ -26,6 +26,8 @@ I’ll be updating this repository regularly as I complete new modules and proje
 | 2 | Gradient Descent| Understanding the concept of minimizing a cost function using gradients. Learning about Batch, Stochastic, and Mini-Batch gradient descent with simple intuition |
 |3 | Regression Analysis | Studied regression analysis focusing on prediction vs inference, assumptions of linear regression (linearity, independence, homoscedasticity, normality), error terms, R² and Adjusted R², F-test, degree of freedom, multicollinearity (including perfect multicollinearity), and understanding how these affect model performance and interpretation |
 | 4 | Feature Selection | Learned how to select important features and remove unnecessary ones to improve model performance. Studied filter methods (correlation, variance threshold, ANOVA, chi-square), wrapper methods (forward selection, backward selection, exhaustive search), and embedded methods (Lasso, Ridge, tree-based feature importance). Understood when and why feature selection is needed. |
+| 5 | Regularization | Learned why regularization is needed to prevent overfitting. Understood the bias–variance tradeoff and how controlling model complexity improves generalization. Studied Ridge (L2) regularization, Lasso (L1) regularization and Elastic-Net (L1 & L2) regularization , how adding a penalty term to the loss function discourages large coefficients, reduces variance, handles multicollinearity, and improves model stability. Also understood the role of lambda (λ) in controlling the strength of regularization and its effect on bias and variance. |
+
 
 
 ---
