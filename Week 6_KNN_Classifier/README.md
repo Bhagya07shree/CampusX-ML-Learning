@@ -1,20 +1,20 @@
-KNN Classifier – Learning Overview
+## KNN Classifier – Learning Overview
 
 This directory contains my learning and experiments related to the K-Nearest Neighbors (KNN) Classifier.
 
-Concepts Learned
+## Concepts Learned
 
-Understood the working of KNN as a distance-based, lazy learning algorithm
+- Understood the working of KNN as a distance-based, lazy learning algorithm
 
-Learned the difference between KNN classification and KNN regression
+- Learned the difference between KNN classification and KNN regression
 
-Studied how the choice of K (number of neighbors) affects predictions
+- Studied how the choice of K (number of neighbors) affects predictions
 
 Small K → overfitting
 
 Large K → underfitting
 
-Understood bias–variance tradeoff in the context of KNN
+- Understood bias–variance tradeoff in the context of KNN
 
 Distance Metrics
 
