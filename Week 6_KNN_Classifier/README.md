@@ -16,72 +16,82 @@ Large K → underfitting
 
 - Understood bias–variance tradeoff in the context of KNN
 
-Distance Metrics
+---
 
-Euclidean distance
+## Distance Metrics
 
-Manhattan distance
+- Euclidean distance
 
-Minkowski distance
+- Manhattan distance
 
-Learned the importance of feature scaling for distance-based models
+- Minkowski distance
 
-KNN Hyperparameters
+- Learned the importance of feature scaling for distance-based models
 
-n_neighbors – number of nearest neighbors
+---
 
-weights – uniform vs distance-weighted KNN
+## KNN Hyperparameters
 
-metric – distance calculation method
+- n_neighbors – number of nearest neighbors
 
-algorithm – auto, ball_tree, kd_tree, brute
+- weights – uniform vs distance-weighted KNN
 
-Learned how these parameters affect model performance and efficiency
+- metric – distance calculation method
 
-Decision Boundary
+- algorithm – auto, ball_tree, kd_tree, brute
 
-Understood the concept of decision boundaries
+- Learned how these parameters affect model performance and efficiency
 
-Learned why KNN produces non-linear decision boundaries
+---
 
-Plotted decision boundaries using toy datasets and the Iris dataset
+## Decision Boundary
 
-Understood visualization tools like meshgrid, ravel, and reshape
+- Understood the concept of decision boundaries
 
-Model Evaluation Metrics
+- Learned why KNN produces non-linear decision boundaries
 
-Accuracy and its limitations on imbalanced datasets
+- Plotted decision boundaries using toy datasets and the Iris dataset
 
-Confusion Matrix (TP, FP, TN, FN)
+---
 
-Precision – importance of minimizing false positives
+## Model Evaluation Metrics
 
-Recall – importance of minimizing false negatives
+- Accuracy and its limitations on imbalanced datasets
 
-Precision–Recall trade-off
+- Confusion Matrix (TP, FP, TN, FN)
 
-F1 Score as a balance between precision and recall
+- Precision – importance of minimizing false positives
 
-Practical Insights
+- Recall – importance of minimizing false negatives
 
-Understood the role of random_state for reproducibility
+- Precision–Recall trade-off
 
-Learned that different random_state values give different but reproducible results
+- F1 Score as a balance between precision and recall
 
-Studied limitations of KNN:
+---
 
-Computationally expensive for large datasets
+## Practical Insights
 
-High memory usage
+- Understood the role of random_state for reproducibility
 
-Sensitive to noise and feature scaling
+- Learned that different random_state values give different but reproducible results
 
-Key Takeaways
+- Studied limitations of KNN:
 
-KNN is simple, intuitive, and effective for small datasets
+- Computationally expensive for large datasets
 
-Proper choice of K, distance metric, and scaling is critical
+- High memory usage
 
-Accuracy alone is not sufficient for evaluating classification models
+- Sensitive to noise and feature scaling
 
-Metric selection should depend on the problem and cost of errors
+---
+
+## Key Takeaways
+
+- KNN is simple, intuitive, and effective for small datasets
+
+- Proper choice of K, distance metric, and scaling is critical
+
+- Accuracy alone is not sufficient for evaluating classification models
+
+- Metric selection should depend on the problem and cost of errors
