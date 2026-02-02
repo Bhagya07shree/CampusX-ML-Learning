@@ -24,11 +24,11 @@ In this week, I learned Principal Component Analysis (PCA) and the basic linear 
 
 ### Eigenvalues and Eigenvectors
 
-Understood the intuition behind eigenvalues and eigenvectors
+- Understood the intuition behind eigenvalues and eigenvectors
 
-Learned why eigenvectors represent important directions in data
+- Learned why eigenvectors represent important directions in data
 
-Understood why eigenvalues indicate the importance of each direction
+- Understood why eigenvalues indicate the importance of each direction
 
 ---
 
@@ -66,7 +66,7 @@ Understood why eigenvalues indicate the importance of each direction
 
 - Learned SVD-based PCA intuition
 
-Understood Kernel PCA at a high level
+- Understood Kernel PCA at a high level
 
 - Learned when standard PCA fails and why variants are needed
 
